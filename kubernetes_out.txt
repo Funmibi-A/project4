@@ -1,3 +1,13 @@
+Port: 8080
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
+
+
+
 (.devops) funmibi@IMBIL-LT5:/mnt/c/users/lptng2/Desktop/project4$ ./run_kubernetes.sh
 Error from server (AlreadyExists): pods "ml-api" already exists
 NAME     READY   STATUS    RESTARTS   AGE
